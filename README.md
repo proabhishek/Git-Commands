@@ -30,7 +30,9 @@ git push origin master
  git clone link 
  
  git stash => remove your chnages 
+ 
  git pull 
+ 
  git stash pop => bring back your changes
 
 
