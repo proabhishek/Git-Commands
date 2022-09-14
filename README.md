@@ -35,4 +35,13 @@ git push origin master
  
  git stash pop => bring back your changes
 
+# Git Branch 
+git branch => shows all branch and highlights current branch
+
+git checkout -b"write new branch name" => this basically helps you to create a new branch and also navigate to that branch
+
+git checkout branch-name => navigate to that branch
+
+git push origin branch-name => push code to existing branch
+
 
